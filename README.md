@@ -1,5 +1,3 @@
-¡Gracias por la aclaración! Aquí tienes el README actualizado con la mención de que realizaste el proyecto como parte de los cursos de FreeCodeCamp:
-
 CSS Flexbox Photo Gallery
 This project is a responsive photo gallery built using HTML and CSS Flexbox. It displays various images of cats arranged neatly in a flexible grid layout. This project was created as part of the FreeCodeCamp curriculum.
 
