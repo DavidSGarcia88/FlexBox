@@ -23,9 +23,6 @@ Styling: Images are styled with a fixed height and max-width, and they have roun
 Contributing
 Feel free to fork this project and make improvements! Pull requests are always welcome.
 
-License
-This project is licensed under the MIT License.
-
 Author
 Project developed by David Garcia as part of a FreeCodeCamp course.
 
