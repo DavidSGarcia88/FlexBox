@@ -1,27 +1,30 @@
 CSS Flexbox Photo Gallery
-This project is a responsive photo gallery built using HTML and CSS Flexbox. It displays various images of cats arranged neatly in a flexible grid layout. This project was created as part of the FreeCodeCamp curriculum.
+This is a responsive photo gallery built with HTML and CSS Flexbox. It showcases images of cats in a neat and flexible grid layout. This project was completed as part of the FreeCodeCamp curriculum.
 
 Features
-Responsive Design: The gallery is designed to look great on both mobile and desktop devices.
-Flexbox Layout: CSS Flexbox is used to create a flexible and responsive image grid.
-Image Styling: The images are properly sized, with consistent padding and rounded corners.
+Responsive Design: The gallery adapts to various screen sizes, ensuring it looks great on both mobile and desktop.
+Flexbox Layout: Utilizes CSS Flexbox to create a flexible, responsive grid that adjusts to the number of images.
+Image Styling: Images are styled with consistent padding, rounded corners, and a fixed height.
 Technologies Used
 HTML
 CSS (Flexbox)
 Project Structure
-index.html: Contains the structure and images for the photo gallery.
-styles.css: Provides the styling, including Flexbox layout, image size, and responsiveness.
+index.html: Contains the HTML structure and displays the images for the gallery.
+styles.css: Includes all the styling for the gallery, including the Flexbox layout and responsive design.
 How to Run the Project
-Clone or download the repository.
-Open the index.html file in your web browser to view the gallery.
-Gallery Example
-Here’s a quick preview of how the gallery will look:
+Clone or download this repository to your local machine.
+Open the index.html file in any modern web browser to see the photo gallery in action.
+Preview
+Here’s a quick preview of what the gallery will look like:
 
-The header has a bold title with a contrasting background.
-The images are displayed in a responsive, flexbox-based grid layout.
-The images are styled with a fixed height, max-width, and rounded corners.
+Header: A bold title displayed with a contrasting background color.
+Image Grid: The images are displayed in a responsive, Flexbox-based grid that adjusts depending on screen size.
+Styling: Images are styled with a fixed height and max-width, and they have rounded corners for a polished look.
 Contributing
-Feel free to fork the project or submit improvements. Pull requests are welcome!
+Feel free to fork this project and make improvements! Pull requests are always welcome.
+
+License
+This project is licensed under the MIT License.
 
 Author
 Project developed by David Garcia as part of a FreeCodeCamp course.
